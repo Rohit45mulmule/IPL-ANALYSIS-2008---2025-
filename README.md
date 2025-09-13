@@ -60,7 +60,7 @@ High-Scoring Tournament: Over 1296 sixes and 2000 fours indicate aggressive batt
 Emerging Star: Sai Sudharsan solidified his reputation as a future superstar with 759 runs.
 
 ## 6. Conclusion
-The IPL 2025 season was historic with:
+The IPL 2025 season was historic with: 
 RCB lifting their first-ever title
 Sai Sudharsan dominating batting charts
 Prasidh Krishna leading the bowling
