@@ -1,5 +1,5 @@
 ### 📊 IPL 2008 - 2025 Season Analysis Report
-##1. Overview
+## 1. Overview
 This dashboard provides an analytical summary of the Indian Premier League (IPL) for the 2025 season, covering key statistics such as 
 season winner, runner-up, player performances, and overall tournament insights. The dataset spans 2008–2025 but here we focus on the 2025 season.
 
